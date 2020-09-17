@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import TODOItem from './TODOItem';
 
 
 export default class TODOs extends Component {
@@ -34,7 +35,7 @@ export default class TODOs extends Component {
             <h3>Todos</h3>
             <ul className="list-group">
                 {items.map((item, idx) =>
-                    (<li key={idx} className="list-group-item">{item} <button onClick={() => {this.deleteItem(idx)}} className="btn btn-primary">删除</button></li>)
+                    (<TODOItem key={idx} item={item} deleteItem={(idx) => {this.deleteItem(idx)}}></TODOItem>)
                 )}
             </ul>
 
