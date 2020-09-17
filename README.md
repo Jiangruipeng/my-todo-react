@@ -23,6 +23,8 @@ In the project directory, you can run:
 //simulate user2
 
 //simulate user1
+user3 task3
+
 
 user2 task2
 
