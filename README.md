@@ -14,6 +14,8 @@ In the project directory, you can run:
 //new feature1
 //new feature1.1
 
+//feature 2
+
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
