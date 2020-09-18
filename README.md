@@ -39,6 +39,8 @@ user2 task2
 
 zailai
 zailai
+
+直接push
 zailai3
 先pull
 Runs the app in the development mode.<br />
