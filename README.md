@@ -106,3 +106,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 merge 错误1
+conflict by user1
